@@ -133,16 +133,3 @@ This is a **Python learning roadmap** designed to take you from beginner to adva
 - [CS50’s Introduction to Python](https://cs50.harvard.edu/python/)
 - [Python for Everybody – Coursera](https://www.coursera.org/specializations/python)
 
----
-
-## 💡 Contributing
-
-Feel free to **fork** this repo and contribute to the roadmap! 🚀
-
----
-
-### 🔗 Connect with me
-📧 Email: [your-email@example.com]  
-💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com)  
-🐙 GitHub: [github.com/yourusername](https://github.com)
-
