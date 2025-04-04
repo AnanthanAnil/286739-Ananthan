@@ -20,7 +20,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - Strings & String Operations  
 - Booleans & Type Conversion  
 - User input & basic print formatting  
-- ![Data Types](https://media.giphy.com/media/xT8qBuhwq8j3XoMtHi/giphy.gif)  
+ ![Data Types](https://media.giphy.com/media/xT8qBuhwq8j3XoMtHi/giphy.gif)  
 
 ### 📌 Day 3: Control Flow  
 - `if-elif-else` statements  
@@ -31,7 +31,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - `for` loops & `while` loops  
 - Loop control (`break`, `continue`, `pass`)  
 - Nested loops  
-- ![Loops](https://miro.medium.com/max/1400/1*uZfzF6PjUQh09u6VhIX6BA.png)  
+![Loops](https://miro.medium.com/max/1400/1*uZfzF6PjUQh09u6VhIX6BA.png)  
 
 ### 📌 Day 5: Functions & Modules  
 - Defining functions  
@@ -43,7 +43,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - Tuples: Immutable sequences  
 - Dictionaries: Key-value pairs  
 - Sets: Unique collections  
-- 📸 ![Data Structures](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
+📸 ![Data Structures](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)  
 
 ### 📌 Day 7: File Handling  
 - Reading & writing files  
@@ -64,7 +64,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - `__init__` constructor  
 - Instance & class variables  
 - 📺 [Python OOP - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)  
-- ![OOP](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
+![OOP](https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)  
 
 ### 📌 Day 10: OOP Advanced Concepts  
 - Inheritance & Polymorphism  
@@ -85,7 +85,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - Pandas DataFrames & Series  
 - Data Cleaning & Analysis  
 - 📺 [Data Analysis with Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)  
-- ![Pandas](https://media4.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
+![Pandas](https://media4.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)  
 
 ### 📌 Day 14: Debugging & Testing  
 - Using `pdb` & `breakpoint()`  
@@ -101,7 +101,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 - Creating Django models & views  
 - Setting up URLs  
 - 📺 [Python Django Full Course](https://www.youtube.com/watch?v=Rp5vd34d-z4)  
-- ![Django](https://miro.medium.com/max/1400/1*F_JGdmwW8IfFC_5lwqMlYw.png)  
+![Django](https://miro.medium.com/max/1400/1*F_JGdmwW8IfFC_5lwqMlYw.png)  
 
 ### 📌 Day 16: REST APIs with Django REST Framework  
 - Creating APIs with Django REST Framework (DRF)  
@@ -123,7 +123,7 @@ A structured roadmap to master Python from **Beginner to Advanced** in **21 Days
 ### 📌 Day 20-21: Capstone Project  
 - Develop a full-fledged **Python project** (Web App / Data Analysis / Automation Tool)  
 - Example: Building a Weather API with Django  
-- ![Project](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
+![Project](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)  
 
 ---
 
