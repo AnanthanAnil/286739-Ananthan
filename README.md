@@ -38,7 +38,7 @@ A structured roadmap to master **Python** from **Beginner to Advanced** in **21 
 - `for` loops & `while` loops  
 - Loop control (`break`, `continue`, `pass`)  
 - Nested loops  
-- ![Loop Meme](https://i.imgur.com/O1w6hM4.gif)  
+- ![Loop GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
 ---
 
@@ -90,6 +90,7 @@ A structured roadmap to master **Python** from **Beginner to Advanced** in **21 
 - Inheritance & Polymorphism  
 - Method Overriding  
 - Encapsulation & Abstraction  
+- ![OOP GIF](https://media.giphy.com/media/3o7TKPVL1b2K2uPnxC/giphy.gif)  
 
 ---
 
@@ -145,6 +146,7 @@ A structured roadmap to master **Python** from **Beginner to Advanced** in **21 
 - Git basics (`init`, `add`, `commit`, `push`)  
 - Branching & Merging  
 - Working with repositories  
+- ![Git GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)  
 
 ---
 
@@ -179,3 +181,16 @@ A structured roadmap to master **Python** from **Beginner to Advanced** in **21 
 - 📺 [Python OOP - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)  
 - 📺 [Python Django Full Course](https://www.youtube.com/watch?v=Rp5vd34d-z4)  
 - 📺 [Advanced Python - Complete Course](https://www.youtube.com/watch?v=7lmCu8wz8ro)  
+
+---
+
+## 💡 Contributing  
+
+Feel free to **fork** this repo and contribute to the roadmap! 🚀  
+
+---
+
+### 🔗 Connect with me  
+📧 Email: [your-email@example.com]  
+💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com)  
+🐙 GitHub: [github.com/yourusername](https://github.com)  
